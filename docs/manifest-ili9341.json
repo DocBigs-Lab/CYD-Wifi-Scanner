@@ -1,0 +1,12 @@
+{
+  "name": "CYD WiFi-Meter (ILI9341)",
+  "version": "0.5.23",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        { "path": "CYD-WiFi-Meter-ili9341-merged.bin", "offset": 0 }
+      ]
+    }
+  ]
+}

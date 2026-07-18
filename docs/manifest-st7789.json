@@ -1,0 +1,12 @@
+{
+  "name": "CYD WiFi-Meter (ST7789)",
+  "version": "0.5.23",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        { "path": "CYD-WiFi-Meter-st7789-merged.bin", "offset": 0 }
+      ]
+    }
+  ]
+}
